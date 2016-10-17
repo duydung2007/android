@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bai23_ContextMenu</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <color name="clrred">#FF0000</color>
+    <color name="clrgreen">#008000</color>
+    <color name="clrblue">#000080</color>
+
+</resources>
